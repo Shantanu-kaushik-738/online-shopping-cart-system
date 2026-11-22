@@ -88,8 +88,6 @@ Quantity must be a positive whole number. For example, `2` is valid; `0`, `-1`, 
 
 ## 7. Given test cases
 
-> Before testing, delete `cart.txt` (if it exists) so an old saved cart does not change the results.
-
 **Test 1 — Add Notebook x2**
 
 - Choose option `2`.
@@ -124,18 +122,6 @@ Quantity must be a positive whole number. For example, `2` is valid; `0`, `-1`, 
 - The saved cart is loaded the next time the program starts.
 - Checkout clears the cart and saves the empty cart.
 
-## 9. GitHub upload steps
-
-Create a new empty repository on GitHub, for example `online-shopping-cart-system`. Open a terminal in this project folder and run (replace `YOUR_USERNAME`):
-
-```bash
-git init
-git add .
-git commit -m "Add beginner-friendly Java shopping cart project"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/online-shopping-cart-system.git
-git push -u origin main
-```
 
 ## 10. A good way to understand the code
 
