@@ -1,4 +1,4 @@
-# Online Shopping Cart System (Beginner-Friendly Java Project)
+# Online Shopping Cart System
 
 A simple menu-driven console project made with core Java. It demonstrates `HashMap`, a custom linked list, `Stack`, bubble sort, methods, and text-file handling.
 
